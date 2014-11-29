@@ -1,6 +1,6 @@
 # Rztree
 
-A [ztree](http://www.ztree.me/v3/main.php#_zTreeInfo) ruby gem to use with rails 4. Test on rails `4.1.8`
+A [ztree](http://www.ztree.me/v3/main.php#_zTreeInfo) now version 3.5.17 ruby gem to use with rails 4. Test on rails `4.1.8`
 
 ## Installation
 
