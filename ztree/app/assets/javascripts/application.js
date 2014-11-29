@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery.ztree.all-3.5.js
+//= require jquery.ztree.all.js
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
